@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "504521081852",
+    "project_id": "planten-16301",
+    "storage_bucket": "planten-16301.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504521081852:android:0a433c03a22c2579256879",
+        "android_client_info": {
+          "package_name": "com.example.planten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504521081852-p1c0re38boh477gobsp07vid6eegc4i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.planten",
+            "certificate_hash": "d8a84106c1a78b7599fb47bc0f4b37a13545e1f9"
+          }
+        },
+        {
+          "client_id": "504521081852-m1n2ls5l17ocsgv0av374vqmi42kvnke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaGf9SbdFROmrPV5_A-xiW15axSXvT4KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504521081852-m1n2ls5l17ocsgv0av374vqmi42kvnke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

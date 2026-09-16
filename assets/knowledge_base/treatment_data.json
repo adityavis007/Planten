@@ -1,0 +1,440 @@
+[
+  {
+    "disease_id": "tomato_early_blight",
+    "crop": "tomato",
+    "name_en": "Tomato Early Blight",
+    "name_hi": "टमाटर का अगेती झुलसा",
+    "symptoms_en": "Dark brown circular spots with concentric rings (target-board pattern) on older lower leaves. Surrounding tissue yellowing.",
+    "symptoms_hi": "पुरानी निचली पत्तियों पर गोल भूरे छल्लेदार धब्बे (टारगेट बोर्ड की तरह)। धब्बों के चारों ओर पत्ती पीली पड़ने लगती है।",
+    "cultural_steps_en": [
+      "Prune and destroy infected lower leaves touching the soil.",
+      "Avoid overhead sprinkler irrigation; water at base of plants.",
+      "Mulch soil around plants with clean straw to prevent soil-splash onto leaves.",
+      "Maintain adequate plant spacing (60x45 cm) for proper air circulation."
+    ],
+    "cultural_steps_hi": [
+      "जमीन को छूने वाली और संक्रमित निचली पत्तियों को काटकर खेत से दूर नष्ट कर दें।",
+      "पौधों के ऊपर से पानी छिड़कने से बचें; पानी सीधे पौधे की जड़ में दें।",
+      "मिट्टी से छीटें पत्तियों पर न पड़ें, इसके लिए पौधों के चारों ओर साफ पुआल की पलवार (मल्चिंग) लगाएं।",
+      "हवा के सही संचार के लिए पौधों के बीच उचित दूरी (60x45 सेमी) बनाए रखें।"
+    ],
+    "organic_nutrition_en": "Apply well-decomposed farmyard manure or vermicompost enriched with neem cake to strengthen natural plant immunity.",
+    "organic_nutrition_hi": "पौधे की प्राकृतिक रोग प्रतिरोधक क्षमता बढ़ाने के लिए नीम की खली से समृद्ध सड़ी गोबर की खाद या केंचुआ खाद का प्रयोग करें।",
+    "fertilizer_class_en": "Maintain balanced NPK ratio; supplement with potash (MOP) to improve leaf cuticle toughness, and apply micronutrients (Zinc and Boron) based on soil test.",
+    "fertilizer_class_hi": "संतुलित NPK अनुपात बनाए रखें; पत्तियों की मजबूती के लिए पोटाश (MOP) दें और मिट्टी की जांच अनुसार सूक्ष्म पोषक तत्व (जिंक व बोरॉन) डालें।",
+    "nutrition_disclaimer_en": "Fertilizer requirements vary by soil fertility and growth stage. Consult your local Krishi Vigyan Kendra (KVK) for exact application rates.",
+    "nutrition_disclaimer_hi": "खाद की आवश्यकता मिट्टी की उर्वरता और फसल की अवस्था पर निर्भर करती है। सटीक मात्रा के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) से संपर्क करें।",
+    "management_category": "fungal",
+    "severity_level": "medium",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "tomato_late_blight",
+    "crop": "tomato",
+    "name_en": "Tomato Late Blight",
+    "name_hi": "टमाटर का पछेती झुलसा",
+    "symptoms_en": "Large irregular water-soaked pale green lesions on leaves turning dark brown/purplish black rapidly in humid cool weather. White fuzzy mold under leaves.",
+    "symptoms_hi": "ठंडे और नम मौसम में पत्तियों पर पानी से भीगे हुए बड़े गहरे भूरे या काले धब्बे। पत्तियों के निचले हिस्से पर सफेद फफूंद दिखाई देती है।",
+    "cultural_steps_en": [
+      "Immediately rogue out and safely bury heavily infected plants to stop rapid spread.",
+      "Avoid cultivating during wet foliage hours to minimize spore transfer.",
+      "Ensure proper drainage in field beds to eliminate stagnant moisture.",
+      "Practice 3-year crop rotation avoiding Solanaceous family crops (potato, tomato, eggplant)."
+    ],
+    "cultural_steps_hi": [
+      "रोग तेजी से न फैले, इसके लिए गंभीर रूप से ग्रसित पौधों को उखाड़कर जमीन में गहरा दबा दें।",
+      "गीली पत्तियों के समय खेत में निराई-गुड़ाई या आवाजाही से बचें।",
+      "खेत में पानी का जमाव न होने दें और जल निकासी का उचित प्रबंध रखें।",
+      "टमाटर के बाद आलू या बैंगन न लगाएं; कम से कम 3 साल का फसल चक्र अपनाएं।"
+    ],
+    "organic_nutrition_en": "Incorporate compost treated with Trichoderma viride bio-agent into root zones; avoid excessive nitrogen that softens leaf tissues.",
+    "organic_nutrition_hi": "जड़ों के पास ट्राइकोडर्मा विरिडी जैव-फफूंदनाशक मिश्रित जैविक खाद डालें; अत्यधिक यूरिया से बचें जिससे पत्तियां कोमल न हों।",
+    "fertilizer_class_en": "Apply phosphorus (DAP/SSP) and potassium (SOP/MOP) to reinforce cell walls; restrict top-dressed nitrogen during active fungal spread.",
+    "fertilizer_class_hi": "कोशिकाओं को मजबूत बनाने के लिए फास्फोरस और पोटाश का प्रयोग करें; रोग के फैलाव के समय ऊपर से यूरिया देने से बचें।",
+    "nutrition_disclaimer_en": "Soil moisture and weather affect nutrient uptake. Follow local agronomic advisory or product labels for precise scheduling.",
+    "nutrition_disclaimer_hi": "मौसम और मिट्टी की नमी पोषक तत्वों के अवशोषण को प्रभावित करती है। सटीक सलाह के लिए स्थानीय कृषि अधिकारी से मार्गदर्शन लें।",
+    "management_category": "fungal",
+    "severity_level": "high",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "tomato_leaf_curl",
+    "crop": "tomato",
+    "name_en": "Tomato Leaf Curl Virus",
+    "name_hi": "टमाटर का पर्ण कुंचन (पत्ती मरोड़) विषाणु",
+    "symptoms_en": "Upward curling and puckering of leaves, stunted plant growth, thick leathery texture, yellowing leaf margins, and drastic fruit drop.",
+    "symptoms_hi": "पत्तियां ऊपर की ओर मुड़कर कटोरी जैसी हो जाती हैं, पौधा बौना रह जाता है, पत्तियां मोटी व खुरदरी हो जाती हैं और फल बहुत कम लगते हैं।",
+    "cultural_steps_en": [
+      "Uproot and destroy virus-infected plants immediately during early vegetative stage.",
+      "Install yellow sticky traps (15-20 traps/acre) to monitor and catch whitefly vectors.",
+      "Grow barrier crops like maize or sorghum (2-3 rows) around tomato plots.",
+      "Use certified disease-resistant hybrid seedlings when transplanting."
+    ],
+    "cultural_steps_hi": [
+      "शुरुआती अवस्था में रोगग्रस्त पौधों को तुरंत उखाड़कर जमीन में गाड़ दें।",
+      "सफेद मक्खी (वाहक कीट) की रोकथाम के लिए प्रति एकड़ 15-20 पीले चिपचिपे ट्रैप (Yellow Sticky Traps) लगाएं।",
+      "टमाटर के खेत के चारों ओर मक्का या ज्वार की 2-3 पंक्तियां अवरोधक फसल के रूप में लगाएं।",
+      "रोपाई के लिए प्रमाणित व रोग-रोधी संकर किस्मों की पौध का ही उपयोग करें।"
+    ],
+    "organic_nutrition_en": "Drench root zone with liquid Jeevamrit or cow dung slurry and apply neem cake to repel soil-borne pests and invigorate foliage.",
+    "organic_nutrition_hi": "जड़ों में तरल जीवामृत का प्रयोग करें और नीम की खली डालें ताकि पौधे में नई जान आए और रोग प्रतिरोधक क्षमता बढ़े।",
+    "fertilizer_class_en": "Foliar spray of water-soluble micronutrient mixture (Zinc, Iron, Boron) to alleviate virus-induced chlorosis and improve recovery vigor.",
+    "fertilizer_class_hi": "विषाणु के कारण आए पीलेपन को कम करने के लिए घुलनशील सूक्ष्म पोषक तत्वों (जिंक, आयरन, बोरॉन) का पर्णीय छिड़काव करें।",
+    "nutrition_disclaimer_en": "Viral conditions cannot be cured by fertilizers alone. Always pair nutrition with whitefly vector management guidelines.",
+    "nutrition_disclaimer_hi": "विषाणु जनित रोग केवल खाद से ठीक नहीं होते। पोषण के साथ-साथ सफेद मक्खी कीट नियंत्रण के उपाय भी अवश्य अपनाएं।",
+    "management_category": "viral",
+    "severity_level": "high",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "tomato_healthy",
+    "crop": "tomato",
+    "name_en": "Healthy Tomato Plant",
+    "name_hi": "स्वस्थ टमाटर का पौधा",
+    "symptoms_en": "Vibrant green uniform leaves with no discoloration, curling, spots, or pest damage. Robust stem and normal vegetative flowering.",
+    "symptoms_hi": "पत्तियां बिल्कुल हरी और साफ हैं। किसी भी प्रकार के धब्बे, मरोड़ या कीट का कोई लक्षण नहीं है। पौधा स्वस्थ वृद्धि कर रहा है।",
+    "cultural_steps_en": [
+      "Maintain consistent soil moisture without waterlogging.",
+      "Inspect undersides of leaves weekly for early pest detection.",
+      "Apply balanced organic compost / Jeevamrit at root zone to boost immunity."
+    ],
+    "cultural_steps_hi": [
+      "नियमित नमी बनाए रखें परंतु खेत में जलभराव न होने दें।",
+      "हफ्ते में एक बार पत्तियों के निचले हिस्से की जांच करें ताकि कीटों का समय पर पता चल सके।",
+      "पौधे की रोग प्रतिरोधक क्षमता बढ़ाने के लिए संतुलित जीवामृत या वर्मीकम्पोस्ट दें।"
+    ],
+    "organic_nutrition_en": "Maintain monthly top-dressing with aged vermicompost or fermented bio-fertilizers (Azotobacter & PSB) to sustain high yields.",
+    "organic_nutrition_hi": "उच्च पैदावार बनाए रखने के लिए हर माह सड़ी केंचुआ खाद या जैव-उर्वरक (एजोटोबैक्टर और पीएसबी) का प्रयोग करते रहें।",
+    "fertilizer_class_en": "Follow balanced split doses of NPK (120:60:60 kg/ha baseline) with Calcium Nitrate and Boron during flowering and fruit setting.",
+    "fertilizer_class_hi": "फूल और फल बनते समय अनुशंसित NPK के साथ कैल्शियम नाइट्रेट व बोरॉन की संतुलित मात्रा का प्रयोग करें।",
+    "nutrition_disclaimer_en": "Adhere to standard Soil Health Card dosage recommendations for your specific field plot.",
+    "nutrition_disclaimer_hi": "अपने खेत के मृदा स्वास्थ्य कार्ड (Soil Health Card) की सिफारिशों के अनुसार ही उर्वरक दें।",
+    "management_category": "healthy",
+    "severity_level": "low",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "potato_early_blight",
+    "crop": "potato",
+    "name_en": "Potato Early Blight",
+    "name_hi": "आलू का अगेती झुलसा",
+    "symptoms_en": "Small scattered brown spots on leaves that enlarge and exhibit distinct concentric rings. Premature defoliation of lower leaves.",
+    "symptoms_hi": "पत्तियों पर छोटे-छोटे भूरे धब्बे जो बढ़कर छल्लेदार रूप ले लेते हैं। रोग बढ़ने पर निचली पत्तियां सूखकर गिरने लगती हैं।",
+    "cultural_steps_en": [
+      "Ensure proper earthening-up to prevent spore wash into developing tubers.",
+      "Maintain balanced nitrogen fertilization; avoid excessive nitrogen that delays maturity.",
+      "Burn or compost infected haulms after harvesting.",
+      "Practice clean crop rotation with non-host crops."
+    ],
+    "cultural_steps_hi": [
+      "कंदों को ढकने के लिए मिट्टी चढ़ाने (Earthing-up) का कार्य समय पर पूरा करें।",
+      "संतुलित मात्रा में ही यूरिया/नाइट्रोजन दें; अत्यधिक नाइट्रोजन से रोग बढ़ता है।",
+      "कटाई के बाद संक्रमित पत्तों और डंठलों को खेत से बाहर निकालकर जला या नष्ट कर दें।",
+      "आलू के बाद गेहूं या दलहनी फसलों का फसल चक्र अपनाएं।"
+    ],
+    "organic_nutrition_en": "Spread well-rotted farmyard manure (FYM) mixed with neem cake before earthing-up to nourish roots and suppress soil inocula.",
+    "organic_nutrition_hi": "मिट्टी चढ़ाने से पहले नीम खली युक्त अच्छी सड़ी गोबर की खाद डालें ताकि जड़ों को पोषण मिले और फफूंद दबे।",
+    "fertilizer_class_en": "Ensure adequate Potassium (Muriate of Potash) to harden foliage against fungal ingress; avoid surplus urea which promotes lush tender leaves.",
+    "fertilizer_class_hi": "पत्तियों को फफूंद से बचाने के लिए पर्याप्त पोटाश डालें; यूरिया का अत्यधिक उपयोग न करें ताकि पत्तियां कोमल न हों।",
+    "nutrition_disclaimer_en": "Adjust fertilizer timing based on irrigation intervals and certified regional potato cultivation guides.",
+    "nutrition_disclaimer_hi": "सिंचाई और स्थानीय आलू उत्पादन पैकेज ऑफ प्रैक्टिसेज के अनुसार ही खाद का समय तय करें।",
+    "management_category": "fungal",
+    "severity_level": "medium",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "potato_late_blight",
+    "crop": "potato",
+    "name_en": "Potato Late Blight",
+    "name_hi": "आलू का पछेती झुलसा",
+    "symptoms_en": "Water-soaked dark lesions on leaf margins and tips spreading rapidly during overcast rainy weather. Whitish mildew rings around lesions in mornings.",
+    "symptoms_hi": "बादल छाए रहने व नम मौसम में पत्तियों के सिरों पर गहरे काले-भूरे भीगे धब्बे। सुबह के समय धब्बों के किनारे सफेद रुई जैसी फफूंद दिखती है।",
+    "cultural_steps_en": [
+      "Cut and safely dispose of infected haulms (stems) 10-14 days before digging tubers.",
+      "Plant certified disease-free seed tubers from trusted state/central sources.",
+      "Do not allow field flooding or stagnant moisture.",
+      "Store harvested potatoes in well-ventilated dry cold storage."
+    ],
+    "cultural_steps_hi": [
+      "आलू की खुदाई से 10-14 दिन पहले ग्रसित पौधों के ऊपरी हिस्से (बेल) को काटकर खेत से हटा दें।",
+      "हमेशा प्रमाणित रोग-मुक्त बीज कंदों का ही चुनाव करें।",
+      "खेत में पानी का भराव बिल्कुल न होने दें।",
+      "खोदने के बाद आलू को हवादार और सूखी जगह पर ही रखें।"
+    ],
+    "organic_nutrition_en": "Apply enriched organic mulch and compost teas to improve microbial diversity; abstain from wet organic slurries during cold damp spells.",
+    "organic_nutrition_hi": "जीवाणु विविधता बढ़ाने के लिए समृद्ध जैविक खाद डालें; ठंडे और नमी वाले मौसम में गीली खाद के प्रयोग से बचें।",
+    "fertilizer_class_en": "Prioritize Phosphatic and Potassic fertilizers to fortify tuber skins and leaf epidermis; suspend quick-release nitrogen application.",
+    "fertilizer_class_hi": "कंद के छिलके और पत्तियों को मजबूत करने के लिए फास्फोरस व पोटाश को प्राथमिकता दें; तेजी से असर करने वाले यूरिया को रोकें।",
+    "nutrition_disclaimer_en": "Late blight spreads rapidly under high humidity. Consult local extension specialists before any nutrient application.",
+    "nutrition_disclaimer_hi": "अत्यधिक नमी में पछेती झुलसा तेजी से फैलता है। किसी भी पोषक तत्व के प्रयोग से पहले कृषि विशेषज्ञ से सलाह लें।",
+    "management_category": "fungal",
+    "severity_level": "high",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "potato_healthy",
+    "crop": "potato",
+    "name_en": "Healthy Potato Plant",
+    "name_hi": "स्वस्थ आलू का पौधा",
+    "symptoms_en": "Healthy dark green foliage, no necrotic spots or water-soaked lesions. Strong canopy vigor.",
+    "symptoms_hi": "पत्तियां पूरी तरह हरी, चमकदार और निरोग हैं। कोई धब्बा या फफूंद नहीं है।",
+    "cultural_steps_en": [
+      "Keep soil loose and aerated around root zone.",
+      "Inspect periodically during foggy winter mornings for late blight symptoms.",
+      "Apply potassium and organic manure as recommended by local soil test."
+    ],
+    "cultural_steps_hi": [
+      "जड़ों के पास मिट्टी को भुरभुरा और हवादार रखें।",
+      "सर्दियों में कोहरे वाले दिनों में पत्तियों की नियमित निगरानी करते रहें।",
+      "मृदा स्वास्थ्य कार्ड के अनुसार संतुलित पोटाश व जैविक खाद का उपयोग करें।"
+    ],
+    "organic_nutrition_en": "Continue routine application of well-decomposed compost at planting and incorporate green manure crops like dhaincha in rotation.",
+    "organic_nutrition_hi": "बुवाई के समय सड़ी गोबर खाद डालें और फसल चक्र में ढैंचा जैसी हरी खाद का नियमित समावेश करें।",
+    "fertilizer_class_en": "Apply balanced NPK in splits with secondary nutrients (Magnesium and Sulphur) to support robust tuber bulking.",
+    "fertilizer_class_hi": "कंदों के अच्छे विकास के लिए संतुलित NPK के साथ मैग्नीशियम और सल्फर (गंधक) का समय पर उपयोग करें।",
+    "nutrition_disclaimer_en": "Always refer to state agricultural university package of practices for optimal potato fertilization schedules.",
+    "nutrition_disclaimer_hi": "आलू की बेहतर पैदावार के लिए राज्य कृषि विश्वविद्यालय द्वारा अनुशंसित खाद सारणी का पालन करें।",
+    "management_category": "healthy",
+    "severity_level": "low",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "wheat_yellow_rust",
+    "crop": "wheat",
+    "name_en": "Wheat Yellow Rust (Stripe Rust)",
+    "name_hi": "गेहूं का पीला रतुआ (हल्दी रोग)",
+    "symptoms_en": "Bright yellow powder pustules arranged in distinct parallel stripes along the leaf veins. Dust rubs off easily onto hands or cloth like turmeric.",
+    "symptoms_hi": "पत्तियों की नसों के समानांतर चमकीले पीले रंग की धारियां। हाथ लगाने पर उंगलियों पर हल्दी जैसा पीला पाउडर चिपक जाता है।",
+    "cultural_steps_en": [
+      "Sow certified rust-resistant wheat cultivars recommended for your agro-climatic zone.",
+      "Timely sow in recommended window (first fortnight of November) to evade peak infection cycle.",
+      "Avoid excessive nitrogenous fertilizer which produces dense, susceptible foliage.",
+      "Immediately report early field foci patches to local extension worker."
+    ],
+    "cultural_steps_hi": [
+      "अपने क्षेत्र के लिए कृषि विभाग द्वारा अनुशंसित पीला रतुआ-रोधी किस्मों की ही बुवाई करें।",
+      "समय पर बुवाई (नवंबर के पहले पखवाड़े में) करें ताकि रोग का प्रकोप कम हो।",
+      "यूरिया की अधिक मात्रा न दें, संतुलित खाद डालें।",
+      "खेत में कहीं भी पीला रतुआ दिखाई दे तो तुरंत स्थानीय कृषि अधिकारी को सूचित करें।"
+    ],
+    "organic_nutrition_en": "Incorporate decomposed farmyard manure and bio-fertilizers (Azospirillum) into seedbed to enhance baseline seedling resilience.",
+    "organic_nutrition_hi": "बीज बोने से पहले खेत में सड़ी गोबर खाद व एजोस्पिरिलम जैव-उर्वरक मिलाकर मिट्टी की प्रतिरोधक क्षमता बढ़ाएं।",
+    "fertilizer_class_en": "Avoid excess nitrogen fertilization which exacerbates yellow rust susceptibility; apply Potash (MOP) to stiffen plant straw.",
+    "fertilizer_class_hi": "यूरिया की अधिक मात्रा से बचें क्योंकि इससे पीला रतुआ बढ़ता है; तने और पत्तियों की मजबूती के लिए पोटाश का संतुलित प्रयोग करें।",
+    "nutrition_disclaimer_en": "Fertilizer cannot replace rust fungicides during severe epidemics. Check with KVK scientists for integrated rust control.",
+    "nutrition_disclaimer_hi": "गंभीर प्रकोप की स्थिति में खाद फफूंदनाशक का विकल्प नहीं है। एकीकृत नियंत्रण के लिए KVK वैज्ञानिकों से संपर्क करें।",
+    "management_category": "fungal",
+    "severity_level": "high",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "wheat_powdery_mildew",
+    "crop": "wheat",
+    "name_en": "Wheat Powdery Mildew",
+    "name_hi": "गेहूं का चूर्णिल आसिता (सफेद फफूंद)",
+    "symptoms_en": "White to grey fluffy powdery spots on leaf blades, sheaths, and stems, turning dull grey with dark pinhead specks later in season.",
+    "symptoms_hi": "पत्तियों, तनों और बालियों पर सफेद या भूरे रंग का चूर्ण (पाउडर) जैसा जमाव, जो बाद में मटमैला हो जाता है।",
+    "cultural_steps_en": [
+      "Avoid overly dense plant stands by adhering to standard seed rates (100 kg/ha).",
+      "Balance irrigation schedules to prevent continuous high relative humidity in canopy.",
+      "Destroy stubble and alternate grass weed hosts around field borders."
+    ],
+    "cultural_steps_hi": [
+      "बीज दर (100 किग्रा प्रति हेक्टेयर) का पालन करें; पौधे अत्यधिक घने न होने दें।",
+      "खेत में अधिक नमी न रहने दें, पानी निकासी की व्यवस्था रखें।",
+      "खेत की मेड़ों से खरपतवारों को साफ रखें ताकि फफूंद वहां न पनप सके।"
+    ],
+    "organic_nutrition_en": "Top-dress with light vermicompost; avoid dense thick organic mulches that trap damp microclimate within wheat canopy.",
+    "organic_nutrition_hi": "हल्की केंचुआ खाद का प्रयोग करें; खेत में अधिक घनी गीली जैविक मल्च न बिछाएं जिससे नमी न रुके।",
+    "fertilizer_class_en": "Maintain balanced NPK nutrition; apply elemental sulfur or water-soluble sulfur fertilizers to naturally deter mildew proliferation.",
+    "fertilizer_class_hi": "संतुलित NPK बनाए रखें; चूर्णिल फफूंद की रोकथाम में मदद के लिए सल्फर (गंधक) युक्त उर्वरकों का उपयोग करें।",
+    "nutrition_disclaimer_en": "Ensure proper canopy ventilation before adding supplementary top-dressed nutrients.",
+    "nutrition_disclaimer_hi": "ऊपर से अतिरिक्त खाद देने से पहले खेत में हवा के उचित संचार की व्यवस्था सुनिश्चित करें।",
+    "management_category": "fungal",
+    "severity_level": "medium",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "wheat_healthy",
+    "crop": "wheat",
+    "name_en": "Healthy Wheat Crop",
+    "name_hi": "स्वस्थ गेहूं की फसल",
+    "symptoms_en": "Clean green leaves without stripe pustules, powder, or tip blights. Uniform tillering.",
+    "symptoms_hi": "पत्तियां पूरी तरह स्वस्थ, हरी और साफ हैं। कोई पीलापन या पाउडर नहीं है। कल्ले अच्छे निकल रहे हैं।",
+    "cultural_steps_en": [
+      "Ensure timely irrigation at critical crown root initiation (CRI) and flowering stages.",
+      "Maintain weed-free conditions during initial 35 days of sowing.",
+      "Monitor field regularly during cool foggy spells."
+    ],
+    "cultural_steps_hi": [
+      "क्राउन रूट इनिशिएशन (CRI) और बालियां निकलते समय खेत में पर्याप्त नमी रखें।",
+      "शुरुआती 35 दिनों तक खेत को खरपतवार मुक्त रखें।",
+      "सर्दियों के दिनों में खेत का नियमित मुआयना करते रहें।"
+    ],
+    "organic_nutrition_en": "Apply well-aerated compost prior to sowing and promote beneficial mycorrhizal colonization in soil.",
+    "organic_nutrition_hi": "बुवाई से पूर्व अच्छी तरह सड़ी खाद डालें और मिट्टी में लाभकारी सूक्ष्मजीवों की सक्रियता बनाए रखें।",
+    "fertilizer_class_en": "Follow balanced 120:60:40 NPK recommendation; split nitrogen between crown root initiation and tillering phases, supplemented with Zinc Sulphate.",
+    "fertilizer_class_hi": "संतुलित 120:60:40 NPK अनुपात अपनाएं; यूरिया को कल्ले फूटते समय दो हिस्सों में बांटकर दें और जिंक सल्फेट मिलाएं।",
+    "nutrition_disclaimer_en": "Base final fertilizer dose on soil health card values to prevent lodging and maximize grain filling.",
+    "nutrition_disclaimer_hi": "फसल को गिरने से बचाने और दानों के भराव के लिए सॉयल हेल्थ कार्ड के अनुसार ही खाद की मात्रा तय करें।",
+    "management_category": "healthy",
+    "severity_level": "low",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "chili_leaf_curl",
+    "crop": "chili",
+    "name_en": "Chili Leaf Curl Virus",
+    "name_hi": "मिर्च का पत्ती मरोड़ (चुर्रा-मुर्रा रोग)",
+    "symptoms_en": "Upward cupping of leaves, thick leathery puckered leaves with shortened internodes. Bushy stunted plant appearance with minimal flower set.",
+    "symptoms_hi": "पत्तियां ऊपर की ओर मुड़कर नाव जैसी हो जाती हैं, पौधा बौना व झाड़ीदार बन जाता है और फूल-फल आना बंद हो जाते हैं।",
+    "cultural_steps_en": [
+      "Uproot and destroy early infected stunted plants immediately.",
+      "Deploy blue and yellow sticky traps (10-15 each per acre) to trap thrips and whiteflies.",
+      "Spray neem oil (organic botanical deterrent) during evening hours to suppress insect vectors.",
+      "Intercrop with tall maize or cowpea border lines as vector barriers."
+    ],
+    "cultural_steps_hi": [
+      "शुरुआत में ही मरोड़ से ग्रसित पौधों को उखाड़कर नष्ट कर दें।",
+      "सफेद मक्खी और थ्रिप्स कीटों को पकड़ने के लिए खेत में नीले और पीले स्टिकी ट्रैप लगाएं।",
+      "वाहक कीटों से बचाव के लिए शाम के समय नीम के तेल का जैविक छिड़काव करें।",
+      "खेत की सीमाओं पर मक्का या लोबिया की 2 पंक्तियां अवरोध के रूप में लगाएं।"
+    ],
+    "organic_nutrition_en": "Apply neem cake to soil and spray fermented cow urine or buttermilk solution (diluted 1:10) to strengthen cell turgidity.",
+    "organic_nutrition_hi": "मिट्टी में नीम की खली डालें और पौधे की ताकत बढ़ाने के लिए खट्टी छाछ या गोमूत्र का हल्का छिड़काव करें।",
+    "fertilizer_class_en": "Foliar application of micronutrient mixture with Boron and Magnesium to alleviate stunted growth and stimulate recovery branching.",
+    "fertilizer_class_hi": "पौधे का बौनापन दूर करने और नई शाखाओं के विकास के लिए बोरॉन व मैग्नीशियम युक्त सूक्ष्म पोषक तत्वों का छिड़काव करें।",
+    "nutrition_disclaimer_en": "Leaf curl is viral and spread by whiteflies/thrips. Combine balanced nutrition with safe vector control measures.",
+    "nutrition_disclaimer_hi": "पत्ती मरोड़ विषाणु जनित है जो कीटों से फैलता है। संतुलित पोषण के साथ कीट रोकथाम भी जरूरी है।",
+    "management_category": "viral",
+    "severity_level": "high",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "chili_bacterial_spot",
+    "crop": "chili",
+    "name_en": "Chili Bacterial Spot",
+    "name_hi": "मिर्च का जीवाणु पत्ती धब्बा",
+    "symptoms_en": "Small dark water-soaked greasy spots on leaves and fruit with yellow halos. In severe cases leaves turn yellow and drop prematurely.",
+    "symptoms_hi": "पत्तियों और फलों पर छोटे-छोटे पानी से भीगे तैलीय धब्बे जिनके चारों ओर पीला घेरा होता है। पत्तियां पीली पड़कर झड़ने लगती हैं।",
+    "cultural_steps_en": [
+      "Use certified disease-free treated chili seeds.",
+      "Avoid handling chili plants when wet from rain or dew.",
+      "Practice drip irrigation rather than overhead hose watering.",
+      "Rotate fields away from peppers and tomatoes for at least 2 years."
+    ],
+    "cultural_steps_hi": [
+      "केवल प्रमाणित व शोधित बीजों का ही उपयोग करें।",
+      "गीले पौधों पर कोई कार्य न करें ताकि जीवाणु एक से दूसरे पौधे में न फैलें।",
+      "ऊपर से पानी डालने के बजाय ड्रिप या जड़ में पानी दें।",
+      "कम से कम 2 साल तक उस खेत में मिर्च या टमाटर की खेती न करें।"
+    ],
+    "organic_nutrition_en": "Incorporate compost treated with Pseudomonas fluorescens biocontrol agent; avoid high-nitrogen animal manures during warm rain spells.",
+    "organic_nutrition_hi": "स्यूडोमोनास फ्लोरेसेंस जैविक कल्चर से उपचारित कम्पोस्ट खाद डालें; उमस भरे दिनों में तेज यूरिया या कच्चे गोबर से बचें।",
+    "fertilizer_class_en": "Ensure adequate Calcium and Potassium nutrition to harden leaf cell walls against bacterial enzyme penetration.",
+    "fertilizer_class_hi": "जीवाणुओं के संक्रमण से बचाव के लिए पत्तियों को कठोर बनाने हेतु कैल्शियम और पोटाश युक्त उर्वरक दें।",
+    "nutrition_disclaimer_en": "Excess moisture accelerates bacterial leaf spot. Apply nutrients only during dry, clear weather windows.",
+    "nutrition_disclaimer_hi": "अधिक नमी में जीवाणु तेजी से बढ़ते हैं। खाद और पोषक तत्वों का प्रयोग केवल साफ मौसम में ही करें।",
+    "management_category": "bacterial",
+    "severity_level": "medium",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "chili_healthy",
+    "crop": "chili",
+    "name_en": "Healthy Chili Plant",
+    "name_hi": "स्वस्थ मिर्च का पौधा",
+    "symptoms_en": "Bright glossy leaves, normal spreading growth habit, no curling or chlorosis. Abundant healthy flowering.",
+    "symptoms_hi": "पत्तियां चमकदार, चिकनी और हरी हैं। किसी भी प्रकार का मुड़ाव या धब्बा नहीं है। फूल और मिर्च अच्छे आ रहे हैं।",
+    "cultural_steps_en": [
+      "Maintain consistent soil moisture and avoid water stagnation.",
+      "Support heavy fruiting branches with staking if needed.",
+      "Inspect leaf undersides weekly for early sucking pest incidence."
+    ],
+    "cultural_steps_hi": [
+      "मिट्टी में पर्याप्त नमी बनाए रखें और पानी जमा न होने दें।",
+      "जरूरत पड़ने पर पौधों को सहारा दें।",
+      "कीटों की निगरानी के लिए समय-समय पर पत्तियों के नीचे जांचें।"
+    ],
+    "organic_nutrition_en": "Regular additions of vermicompost and foliar sprays of seaweed extract to support continuous flowering and fruit setting.",
+    "organic_nutrition_hi": "लगातार फूल और मिर्च आने के लिए नियमित केंचुआ खाद और समुद्री घास (Seaweed) अर्क का हल्का छिड़काव करें।",
+    "fertilizer_class_en": "Apply balanced NPK in split doses with special emphasis on Potassium and Boron to avoid flower and fruit drop.",
+    "fertilizer_class_hi": "फूल और फल झड़ने से रोकने के लिए NPK के साथ पोटाश और बोरॉन की संतुलित मात्रा का उपयोग करें।",
+    "nutrition_disclaimer_en": "Consult local agricultural authorities for drip fertigation schedules tailored to your chili variety.",
+    "nutrition_disclaimer_hi": "अपनी मिर्च की किस्म के अनुसार ड्रिप फर्टिगेशन तालिका के लिए स्थानीय कृषि वैज्ञानिक से सलाह लें।",
+    "management_category": "healthy",
+    "severity_level": "low",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "cotton_bacterial_blight",
+    "crop": "cotton",
+    "name_en": "Cotton Bacterial Blight (Angular Leaf Spot)",
+    "name_hi": "कपास का जीवाणु अंगमारी (कोणीय पत्ती धब्बा)",
+    "symptoms_en": "Angular water-soaked spots delimited by leaf veinlets on underside of leaves, turning dark brown/black. Reddish-purple lesions on stems (blackarm phase).",
+    "symptoms_hi": "पत्तियों की नसों के बीच कोणीय (कोनेदार) भीगे धब्बे जो बाद में काले-भूरे हो जाते हैं। तने पर काले घाव (ब्लैक आर्म) बन जाते हैं।",
+    "cultural_steps_en": [
+      "Sow acid-delinted and certified disease-free cotton seeds.",
+      "Collect and burn crop debris immediately following harvest.",
+      "Adopt wider row spacing (90-120 cm) in fertile soils to minimize humidity build-up.",
+      "Avoid excess vegetative growth driven by over-fertilization with nitrogen."
+    ],
+    "cultural_steps_hi": [
+      "एसिड-डिलिंटेड और प्रमाणित रोग-मुक्त बीजों की ही बुवाई करें।",
+      "कपास की चुनाई के बाद अवशेषों को खेत में न छोड़ें, उन्हें नष्ट करें।",
+      "हवा के सही प्रवाह के लिए पंक्तियों के बीच उचित दूरी (90-120 सेमी) रखें।",
+      "यूरिया का अत्यधिक उपयोग न करें जिससे पौधे की वानस्पतिक वृद्धि अनियंत्रित न हो।"
+    ],
+    "organic_nutrition_en": "Apply well-decomposed FYM with neem cake; avoid fresh nitrogen-rich poultry manure that induces overly succulent leaf tissue.",
+    "organic_nutrition_hi": "सड़ी गोबर खाद के साथ नीम खली का प्रयोग करें; अत्यधिक यूरिया से बचें ताकि पत्तियां जरूरत से ज्यादा कोमल न हों।",
+    "fertilizer_class_en": "Balance Nitrogen with higher Potash (MOP) and Zinc to build vascular resistance against blackarm and leaf blight.",
+    "fertilizer_class_hi": "ब्लैक आर्म और पत्ती धब्बा से बचाव के लिए यूरिया को सीमित रखें और पोटाश व जिंक की पर्याप्त मात्रा दें।",
+    "nutrition_disclaimer_en": "Rain-fed and irrigated cotton demand distinct nutrient splits. Consult local KVK guidelines for best practice.",
+    "nutrition_disclaimer_hi": "वर्षा आधारित और सिंचित कपास में खाद का समय अलग होता है। उचित सलाह के लिए KVK दिशा-निर्देश देखें।",
+    "management_category": "bacterial",
+    "severity_level": "high",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  },
+  {
+    "disease_id": "cotton_healthy",
+    "crop": "cotton",
+    "name_en": "Healthy Cotton Plant",
+    "name_hi": "स्वस्थ कपास का पौधा",
+    "symptoms_en": "Deep green broad lobed leaves, sturdy square formation, no angular spots or leaf curling.",
+    "symptoms_hi": "पत्तियां चौड़ी, गहरी हरी और साफ हैं। पौधे में कोई धब्बा या कीड़ा नहीं है और टिंडे अच्छे बन रहे हैं।",
+    "cultural_steps_en": [
+      "Keep field clean of weeds like Abutilon that host pests.",
+      "Monitor for bollworm or whitefly activity using pheromone traps.",
+      "Maintain proper field drainage during monsoon downpours."
+    ],
+    "cultural_steps_hi": [
+      "खेत की मेड़ों को खरपतवार मुक्त रखें।",
+      "फेरोमोन ट्रैप लगाकर कीटों की नियमित निगरानी करें।",
+      "बारिश के दिनों में खेत से अतिरिक्त पानी निकालने की व्यवस्था रखें।"
+    ],
+    "organic_nutrition_en": "Incorporate green manure crops like sunn hemp or cowpea during pre-sowing soil prep; mulch with crop residues.",
+    "organic_nutrition_hi": "बुवाई से पहले सनई या लोबिया जैसी हरी खाद दबाएं; खेत में जैविक मल्चिंग का उपयोग करें।",
+    "fertilizer_class_en": "Follow balanced NPK schedule; supplement with Magnesium Sulphate (1%) and Boron during square and boll formation stages.",
+    "fertilizer_class_hi": "संतुलित NPK दें; टिंडे बनते समय मैग्नीशियम सल्फेट और बोरॉन का अनुशंसित छिड़काव करें।",
+    "nutrition_disclaimer_en": "Perform periodic petiole or soil analysis to optimize boll retention and lint quality.",
+    "nutrition_disclaimer_hi": "अच्छी पैदावार और रेशे की गुणवत्ता के लिए मिट्टी की जांच के आधार पर पोषक तत्वों का संतुलन रखें।",
+    "management_category": "healthy",
+    "severity_level": "low",
+    "disclaimer_en": "Consult a local Krishi Vigyan Kendra (KVK) or agriculture officer for specific certified treatment products.",
+    "disclaimer_hi": "विशिष्ट प्रमाणित दवा या उपचार के लिए नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।"
+  }
+]

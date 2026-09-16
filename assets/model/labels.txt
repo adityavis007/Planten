@@ -1,0 +1,15 @@
+tomato_early_blight
+tomato_late_blight
+tomato_leaf_curl
+tomato_healthy
+potato_early_blight
+potato_late_blight
+potato_healthy
+wheat_yellow_rust
+wheat_powdery_mildew
+wheat_healthy
+chili_leaf_curl
+chili_bacterial_spot
+chili_healthy
+cotton_bacterial_blight
+cotton_healthy
