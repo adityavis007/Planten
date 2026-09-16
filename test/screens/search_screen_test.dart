@@ -219,5 +219,19 @@ void main() {
       expect(find.text('लोकप्रिय खोजें'), findsOneWidget);
       expect(find.text('अगेती झुलसा'), findsOneWidget);
     });
+
+    testWidgets('renders back button in AppBar and responds to tap', (
+      tester,
+    ) async {
+      await tester.pumpWidget(buildTestableSearchScreen());
+      await tester.pumpAndSettle();
+
+      final backButtonFinder = find.byKey(const ValueKey('search_back_button'));
+      expect(backButtonFinder, findsOneWidget);
+      expect(find.byIcon(Icons.arrow_back_ios_new_rounded), findsOneWidget);
+
+      await tester.tap(backButtonFinder);
+      await tester.pumpAndSettle();
+    });
   });
 }

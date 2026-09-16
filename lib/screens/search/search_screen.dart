@@ -148,10 +148,28 @@ class _SearchScreenState extends State<SearchScreen> {
       appBar: AppBar(
         backgroundColor: context.appBarBgColor,
         elevation: 0,
+        leading: IconButton(
+          key: const ValueKey('search_back_button'),
+          icon: Icon(
+            Icons.arrow_back_ios_new_rounded,
+            color: context.textPrimaryColor,
+            size: 20.0,
+          ),
+          tooltip: isHindi ? 'वापस' : 'Back',
+          onPressed: () {
+            if (Navigator.of(context).canPop()) {
+              Navigator.of(context).pop();
+            } else {
+              try {
+                context.go(AppRoutes.home);
+              } catch (_) {}
+            }
+          },
+        ),
         title: Text(
           isHindi ? 'खोजें' : 'Search',
           style: AppTypography.headline.copyWith(
-            color: Colors.black,
+            color: context.textPrimaryColor,
             fontSize: 20.0,
             fontWeight: FontWeight.w700,
           ),

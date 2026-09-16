@@ -337,7 +337,7 @@ class HomeScreen extends StatelessWidget {
             if (onSearchTap != null) {
               onSearchTap!();
             } else {
-              context.go(AppRoutes.search);
+              context.push(AppRoutes.search);
             }
           },
           child: Container(
