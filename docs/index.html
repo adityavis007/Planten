@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Planten - Account and Data Deletion Policy</title>
+  <style>
+    :root {
+      --primary: #2E7D32;
+      --primary-dark: #1B5E20;
+      --bg: #F9FBF9;
+      --card-bg: #FFFFFF;
+      --text: #1C2826;
+      --text-muted: #556B62;
+      --border: #E0E8E3;
+      --danger: #D32F2F;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 24px 16px;
+    }
+    .container {
+      max-width: 760px;
+      margin: 0 auto;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 32px 28px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.05);
+    }
+    header {
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 20px;
+      margin-bottom: 24px;
+    }
+    h1 {
+      color: var(--primary-dark);
+      font-size: 26px;
+      margin-bottom: 8px;
+    }
+    .badge-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 14px;
+      color: var(--text-muted);
+    }
+    .badge {
+      background: #E8F5E9;
+      color: var(--primary-dark);
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-weight: 600;
+    }
+    h2 {
+      color: var(--primary);
+      font-size: 19px;
+      margin: 24px 0 12px 0;
+    }
+    p, ul {
+      margin-bottom: 14px;
+      color: var(--text);
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 6px;
+    }
+    .callout {
+      background: #F1F8E9;
+      border-left: 4px solid var(--primary);
+      padding: 16px;
+      border-radius: 0 8px 8px 0;
+      margin: 18px 0;
+    }
+    .callout strong {
+      color: var(--primary-dark);
+    }
+    .email-box {
+      background: #FFF8E1;
+      border: 1px solid #FFE082;
+      border-radius: 8px;
+      padding: 16px;
+      margin: 16px 0;
+    }
+    .email-box a {
+      color: var(--primary-dark);
+      font-weight: bold;
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 36px;
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+      font-size: 13px;
+      color: var(--text-muted);
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Planten - Account and Data Deletion</h1>
+      <div class="badge-bar">
+        <span><strong>App:</strong> Planten (AI Crop Doctor)</span>
+        <span>&bull;</span>
+        <span><strong>Developer:</strong> Aditya Vishwakarma</span>
+        <span>&bull;</span>
+        <span class="badge">Google Play Compliant</span>
+      </div>
+    </header>
+
+    <section>
+      <h2>1. Overview</h2>
+      <p>At <strong>Planten</strong>, we respect user privacy and adhere strictly to Google Play's Account Deletion Policy. We provide all registered users with complete transparency and direct control over their personal profile and cloud-stored agronomic data.</p>
+    </section>
+
+    <section>
+      <h2>2. How to Request Account & Data Deletion</h2>
+      <p>You can request account deletion at any time, even if you have already uninstalled the Planten app from your device.</p>
+      
+      <div class="email-box">
+        <p><strong>Step-by-Step Instructions:</strong></p>
+        <ol style="padding-left: 20px; margin-top: 8px;">
+          <li>Send an email to: <a href="mailto:adityavishakarma4@gmail.com?subject=Planten%20Account%20Deletion%20Request">adityavishakarma4@gmail.com</a></li>
+          <li>Subject line: <code>Planten - Account Deletion Request</code></li>
+          <li>Include the following details in your email body:
+            <ul style="margin-top: 6px;">
+              <li>Your Full Name (used in the app)</li>
+              <li>Your Registered Email Address (Firebase or Google Sign-In)</li>
+              <li>(Optional) Reason for account deletion</li>
+            </ul>
+          </li>
+        </ol>
+      </div>
+      <p>Our support team will verify and initiate the deletion process within 48 hours of receiving your request.</p>
+    </section>
+
+    <section>
+      <h2>3. Data That Will Be Permanently Deleted</h2>
+      <p>Upon verification, the following data is permanently purged:</p>
+      <ul>
+        <li><strong>Authentication Details:</strong> Firebase user authentication record, UID, and OAuth tokens.</li>
+        <li><strong>Farmer Profile:</strong> Name, village, district, state, and primary crop selections.</li>
+        <li><strong>Scan & Health History:</strong> Crop diagnosis records, symptoms entered, and sync timestamps.</li>
+        <li><strong>Cloud Images:</strong> Cloud-backed leaf photos (if opt-in photo backup was enabled).</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>4. Data Retention and Timeline</h2>
+      <p><strong>Timeline:</strong> All active user profile data and diagnostic records are permanently deleted within <strong>30 days</strong> of confirmation.</p>
+      <p><strong>Retained Data:</strong> No personal identifiable information is kept. Only aggregated, fully anonymized crop disease metrics (with zero user or location identifiers) may be retained for regional disease forecasting.</p>
+    </section>
+
+    <section>
+      <h2>5. Contact Information</h2>
+      <p>If you have any questions, please contact:</p>
+      <ul>
+        <li><strong>Developer:</strong> Aditya Vishwakarma</li>
+        <li><strong>Email:</strong> <a href="mailto:adityavishakarma4@gmail.com">adityavishakarma4@gmail.com</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/adityavis007/Planten" target="_blank" rel="noopener">https://github.com/adityavis007/Planten</a></li>
+      </ul>
+    </section>
+
+    <footer>
+      &copy; 2026 Planten &bull; Developed by Aditya Vishwakarma &bull; All Rights Reserved.
+    </footer>
+  </div>
+</body>
+</html>
